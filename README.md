@@ -27,3 +27,5 @@ When the page is refreshed, saved notes stay on page.
 This project was a great way for me to solidify concepts that we had previously. I had more that a few "aha" moments where concepts clicked.
 
 Overcoming the bugs and getting clarity on concepts made this the most satisfying project to finish so far.
+
+Deployed project [link](https://francis-bond.github.io/workdayscheduler/)
